@@ -1,0 +1,10 @@
+body{
+  background:black;
+  color: aliceblue;
+}
+label{
+  display: block;
+}
+input{
+  width: 100%;
+}
